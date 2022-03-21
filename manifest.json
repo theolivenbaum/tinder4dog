@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "name": "Tinder for Dogs",
+  "short_name": "Tinder for Dogs",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "images/paw-heart.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait"
+}
